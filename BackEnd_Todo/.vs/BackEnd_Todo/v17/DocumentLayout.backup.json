@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\dtomodel\\dtotodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\dtomodel\\dtotodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\migrations\\20250702224140_addfeilddes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\migrations\\20250702224140_addfeilddes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\dtomodel\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\dtomodel\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|c:\\users\\user\\onedrive\\desktop\\todo-project\\backend_todo\\backend_todo\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215E577B-915D-4C14-95D3-CF6AA33BE18E}|BackEnd_Todo\\BackEnd_Todo.csproj|solutionrelative:backend_todo\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomJwtAuthExtention.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Extentions\\CustomJwtAuthExtention.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Extentions\\CustomJwtAuthExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:18:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwGUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:57:33.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:21:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250702224140_AddFeildDes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Migrations\\20250702224140_AddFeildDes.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Migrations\\20250702224140_AddFeildDes.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Migrations\\20250702224140_AddFeildDes.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Migrations\\20250702224140_AddFeildDes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:41:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dtoNewUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\DtoModel\\dtoNewUser.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\DtoModel\\dtoNewUser.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\DtoModel\\dtoNewUser.cs",
+              "RelativeToolTip": "BackEnd_Todo\\DtoModel\\dtoNewUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:03:20.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dtoToDo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\DtoModel\\dtoToDo.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\DtoModel\\dtoToDo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\DtoModel\\dtoToDo.cs",
+              "RelativeToolTip": "BackEnd_Todo\\DtoModel\\dtoToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:32:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\appsettings.json",
+              "RelativeToolTip": "BackEnd_Todo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T13:24:05.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Program.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:28:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:26:18.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Model\\Todo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Model\\Todo.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Model\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:22:40.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "BackEnd_Todo\\Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Todo-Project\\BackEnd_Todo\\BackEnd_Todo\\Model\\AppUser.cs",
+              "RelativeToolTip": "BackEnd_Todo\\Model\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:22:07.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

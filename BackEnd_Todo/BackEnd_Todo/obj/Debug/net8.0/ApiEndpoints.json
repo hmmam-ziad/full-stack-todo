@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.AccountController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/Account/GetUserProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoUser",
+        "Type": "BackEnd_Todo.DtoModel.dtoUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newUser",
+        "Type": "BackEnd_Todo.DtoModel.dtoNewUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.TodoController",
+    "Method": "CreateTodo",
+    "RelativePath": "api/Todo/CreateTodo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "todoDto",
+        "Type": "BackEnd_Todo.DtoModel.dtoToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.TodoController",
+    "Method": "DeleteTodo",
+    "RelativePath": "api/Todo/DeleteTodo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.TodoController",
+    "Method": "Todos",
+    "RelativePath": "api/Todo/Todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_Todo.Controllers.TodoController",
+    "Method": "UpdateTodo",
+    "RelativePath": "api/Todo/UpdateTodo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "todoDto",
+        "Type": "BackEnd_Todo.DtoModel.dtoToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
